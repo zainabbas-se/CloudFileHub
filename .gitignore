@@ -1,8 +1,3 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# Environment & secrets
 .env
 .venv/
-venv/
